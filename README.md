@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Manoharan</h1>
 <h3 align="center">A passionate Programmer from Chennai</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+
 <!-- <p align="center"> 
  <img src="[https://komarev.com/ghpvc/?username=aishwaryam1202&color=ff69b4](https://komarev.com/ghpvc/?username=aishwaryam1202)" alt="Aishwarya Manoharan" /> 
 </p> -->
@@ -29,6 +30,7 @@
 <img align="right" width="200" height="200" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 <br><br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=aishwaryam1202&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 - 🔭 I’m currently working in **Lumel Technologies**
 
 - 🌱 I’m currently learning **GraphQL**
@@ -72,3 +74,4 @@
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
