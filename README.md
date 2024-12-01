@@ -31,6 +31,7 @@
 <br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aishwaryam1202&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working in **Lumel Technologies**
 
 - 🌱 I’m currently learning **GraphQL**
